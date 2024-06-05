@@ -165,10 +165,6 @@ Performs a single step in the A* algorithm, updating the path and the UI.
 
 Heuristic function for the A* algorithm, calculating the Manhattan distance between two points.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 This documentation guide should help you understand the structure and functionality of the Maze Game with Pathfinding project. If you have any further questions or need additional details, feel free to ask!
